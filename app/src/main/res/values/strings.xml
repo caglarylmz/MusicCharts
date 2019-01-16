@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music Charts</string>
+
+    <!--Countries spinner-->
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>Turkey</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Sweden</item>
+    </string-array>
+
+</resources>
